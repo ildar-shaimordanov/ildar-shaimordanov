@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+* https://github.com/ildar-shaimordanov
+* https://resume.github.io/?ildar-shaimordanov
+
 <!--
 **ildar-shaimordanov/ildar-shaimordanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
