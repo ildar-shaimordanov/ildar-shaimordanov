@@ -1,5 +1,5 @@
-* https://github.com/ildar-shaimordanov
-* https://resume.github.io/?ildar-shaimordanov
+* [Profile](https://github.com/ildar-shaimordanov)
+* [Resume](https://resume.github.io/?ildar-shaimordanov)
 
 <!--
 ### Hi there 👋
